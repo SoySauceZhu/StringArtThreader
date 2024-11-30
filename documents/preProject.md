@@ -16,7 +16,7 @@ A machine that takes in a the scheme and threading black string on a round board
 
 - Problem: How to control the spinning board with high precision. i.e. 360 pins will need precision better than 1 deg.
   - 1. Well designed and well adjusted closed loop controller.
-  - 2. Coloring the circumference of the circle with black and white color to describe the angular position. (still a feedback control system)
+  - 2. Coloring the circumference of the board with black and white color to describe the angular position. (still a feedback control system)
   - 3. Naively, using servo motor. Tell it to rotate 136 deg. (open loop system)
 
 # Mechanical
