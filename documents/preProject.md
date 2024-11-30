@@ -1,5 +1,6 @@
 # Functional Requirement
 A software that takes in a picture and generate a scheme for string art.
+
 A machine that takes in a the scheme and threading black string on a round board on which nails are smashed manually. 
  
 ## Specification
